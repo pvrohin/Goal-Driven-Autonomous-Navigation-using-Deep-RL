@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# generated from catkin.builder Python module
+
+. "/home/varun_gampa_ubuntu20/WPI_acad/RL/Project/DRL-robot-navigation/catkin_ws/devel_isolated/velodyne_simulator/setup.bash"
