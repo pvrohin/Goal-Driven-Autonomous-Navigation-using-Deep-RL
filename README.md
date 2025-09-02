@@ -7,6 +7,15 @@
 
 A cutting-edge implementation of autonomous robot navigation using **Twin Delayed Deep Deterministic Policy Gradient (TD3)** algorithm. This project enables mobile robots to learn goal-directed navigation in complex environments while avoiding obstacles using deep reinforcement learning.
 
+![Training Demo](code/training.gif)
+*Training demonstration showing the robot learning to navigate to goals while avoiding obstacles*
+
+![Environment Overview](code/env1.png)
+*Simulation environment with obstacles and navigation targets*
+
+![LiDAR Visualization](code/velodyne.png)
+*3D LiDAR sensor data visualization for obstacle detection*
+
 ## 🎯 Project Overview
 
 This project implements a sophisticated autonomous navigation system that combines:
